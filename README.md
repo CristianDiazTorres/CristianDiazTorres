@@ -9,8 +9,8 @@
  <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     </a>
-     <a href="[https://github.com/CristianDiaz19930915?tab=followers](https://github.com/CristianDiaz19930915?tab=followers)">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CristianDiaz19930915?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+     <a href="[https://github.com/CristianDiazTorres?tab=followers](https://github.com/CristianDiazTorres?tab=followers)">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CristianDiazTorres?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
 
 <p align="center">
@@ -70,22 +70,22 @@
 	
   <summary><b>🔎 Github Profile Details</b></summary>
   <br/>
-<p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianDiaz19930915&theme=github_dark" alt="Cristian Diaz Torres" align = "center"/></p>
+<p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianDiazTorres&theme=github_dark" alt="Cristian Diaz Torres" align = "center"/></p>
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianDiaz19930915&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Cristian Diaz Torres" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDiaz19930915&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Cristian Diaz Torres" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianDiazTorres&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Cristian Diaz Torres" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDiazTorres&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Cristian Diaz Torres" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDiaz19930915&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Cristian Diaz Torres" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDiazTorres&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Cristian Diaz Torres" /></p>
 
 <!-- <summary><b>📊 Github Contribution Graph</b></summary>
 <br/>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CristianDiaz19930915&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CristianDiazTorres&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 <summary><b>🏆 Github Achievements</b></summary>
 <br/>
-<p align="center"> <a href="https://github.com/CristianDiaz19930915"><img src="https://github-profile-trophy.vercel.app/?username=CristianDiaz19930915&margin-w=5&theme=radical" alt="Cristian Diaz Torres" /></a> </p>
+<p align="center"> <a href="https://github.com/CristianDiazTorres"><img src="https://github-profile-trophy.vercel.app/?username=CristianDiazTorres&margin-w=5&theme=radical" alt="Cristian Diaz Torres" /></a> </p>
 
 <br>
 
