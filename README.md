@@ -17,6 +17,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;9+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/CristianDiazTorres/CristianDiazTorres/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+
 ## 🧑 About me: [cristiandiaz.great-site.net](http://cristiandiaz.great-site.net)
   <p><b>Telegram:</b> https://t.me/cristiandiaz0915</p>
   <p><b>Discord:</b> Cristian Diaz#6460</p>
