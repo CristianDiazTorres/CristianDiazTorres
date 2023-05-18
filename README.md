@@ -15,7 +15,11 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/devgod611/devgod611/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;10+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
+</p>
+
+<img align="right" alt="GIF" src="https://github.com/CristianDiazTorres/CristianDiazTorres/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
 ### 🧑 A little more about me... 
 *   <p><b>Telegram:</b> https://t.me/cristiandiaz0915</p>
